@@ -1,0 +1,6 @@
+invoke==1.6.0
+jinja2==3.0.2
+jenkins==1.0.2
+python-jenkins==1.7.0
+elasticsearch6==6.8.2
+kibana-api==0.0.4

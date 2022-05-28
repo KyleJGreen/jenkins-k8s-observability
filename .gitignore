@@ -1,0 +1,6 @@
+gcp-py-gke/kubeconfig
+gcp-py-gke/Pulumi.dev.yaml
+gcp-py-gke/venv/
+gcp-py-gke/__pychache__/
+venv/
+key.json
