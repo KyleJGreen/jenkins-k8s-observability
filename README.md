@@ -3,7 +3,7 @@
 ### Description
 This repository provides the infrastructure as code to deploy a GKE cluster using Pulumi. It also includes the code for deploying Jenkins and the ELK stack within that cluster. By following the instructions below, you can deploy these resources in your own Google Cloud environment and configure an ElasticSearch dashboard to monitor the resource utilization of your Jenkins instance along with metrics on workflows that have run on the instance.
 
-####Steps:
+###Steps:
 
 1.  `$ sh setup.sh <project-id> <user> <pass>`
 
@@ -26,7 +26,7 @@ http://elasticsearch-logging.monitoring-observability:9200/logstash-jenkins/jenk
 
 
 
-####Troubleshooting:
+###Troubleshooting:
 
 
 Export the Kibana dashboard:
